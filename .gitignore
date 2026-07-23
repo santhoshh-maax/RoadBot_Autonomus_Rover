@@ -1,0 +1,26 @@
+# Virtual env
+
+yolov8/
+
+
+
+# Dataset & images
+hole image/
+images/
+data/
+datasets/
+PATH HOLE DETECTION.v1i.yolov8/
+
+# YOLO outputs
+
+outputs/
+
+# Models
+*.pt
+*.pth
+*.onnx
+
+# Videos
+*.mp4
+*.avi
+*.mov

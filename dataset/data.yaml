@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['hole']
+
+roboflow:
+  workspace: rover-jmuzl
+  project: autonomus-rover-lbevj
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rover-jmuzl/autonomus-rover-lbevj/dataset/1
