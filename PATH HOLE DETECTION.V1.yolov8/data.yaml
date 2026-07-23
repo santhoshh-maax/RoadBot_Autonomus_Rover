@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Pothole - v1 raw']
+
+roboflow:
+  workspace: rover-jmuzl
+  project: path-hole-detection-q0tsf-fawi9
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rover-jmuzl/path-hole-detection-q0tsf-fawi9/dataset/1
