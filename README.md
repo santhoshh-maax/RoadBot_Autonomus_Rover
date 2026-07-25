@@ -167,9 +167,11 @@ The Python programs in this repository use the **PyRealSense2** library to captu
 
 You can still test the trained **YOLOv8 model** using images or videos.
 
-**Use the File named Video_pothole.py and Upload any Pothole video to test my Yolov8n model**
+For Videos
 
-For Test Images Please refer to:
+**Use the File named Video_pothole.py (GUI) and Upload any Pothole video to test my Yolov8n model**
+
+To Test Images Please refer to:
 
 📄 **how to run Yolov8 Model.docx**
 
