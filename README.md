@@ -79,8 +79,10 @@ Road-Bot/
 ├── main.py
 ├── rover_final.py
 ├── rover_laptop.py
+├── video_pothole.py
 │
 ├── block diagram.png
+├── demo.mp4
 ├── road.jpg
 ├── hole_measurements.csv
 │
@@ -165,7 +167,9 @@ The Python programs in this repository use the **PyRealSense2** library to captu
 
 You can still test the trained **YOLOv8 model** using images or videos.
 
-Please refer to:
+**Use the File named Video_pothole.py and Upload any Pothole video to test my Yolov8n model**
+
+For Test Images Please refer to:
 
 📄 **how to run Yolov8 Model.docx**
 
@@ -175,7 +179,9 @@ This document explains:
 - Required libraries
 - Model setup
 - Running inference on images
-- Running inference on videos
+
+
+
 
 ---
 
