@@ -1,4 +1,4 @@
-# 🚗 Road Bot: AI-Powered Autonomous Pothole Detection and Repair System [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-db61a2?style=flat&logo=github-sponsors)](https://github.com/sponsors/santhoshh-maax)
+# 🚗 Road Bot: AI-Powered Autonomous Pothole Detection and Repair System [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-db61a2?style=flat&logo=github-sponsors)](https://github.com/sponsors/santhoshh-maax)  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51YFMS9)
 
 An AI-powered autonomous rover that detects potholes using **YOLOv8**, measures their dimensions using the **Intel RealSense D455f Depth Camera**, and is designed to automate road repair through an intelligent material dispensing mechanism.
 
